@@ -1,6 +1,6 @@
 ---
 title: "Skaffoldを使って複数のCloudRunサービスをデプロイする"
-emoji: "⚛️"
+emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [CloudRun,Skaffold]
 published: false
@@ -63,7 +63,7 @@ https://skaffold.dev/
 SkaffoldはCloudRunにも使用することができます。
 
 ### Skaffold導入のメリット
-Skaffoldには様々なメリットがありますが、SocialDogにおいては主に以下のメリットがあると考えました。
+様々なメリットがありますが、SocialDogにおいては主に以下のメリットがあると考えました。
 - 複数のサービスを一括でデプロイできる
   - `skaffold run` コマンドでデプロイが可能
 - 各サービスの個別のデプロイを1つの設定ファイルで管理できる
