@@ -3,7 +3,7 @@ title: "Skaffoldを使って複数のCloudRunサービスをデプロイする"
 emoji: "🚀"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [CloudRun,Skaffold]
-published: false
+published: true
 publication_name: socialdog
 ---
 
